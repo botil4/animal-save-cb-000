@@ -28,5 +28,6 @@ accomplish this. Read about the setting for rotate [here](https://developer.mozi
 @media only screen and (min-width: 642px) and (max-width: 1090px) {
   #dolphin {
     top: 100px;
+    transform: rotate(90);
   }
 }
