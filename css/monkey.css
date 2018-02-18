@@ -15,6 +15,6 @@ will allow the monkey to jump up over the Spice Girls from screen size of 406px 
 
 @media only screen and ( max-width: 1090px) {
   #monkey {
-    top: 10px;
+    top: 0px;
   }
 }
