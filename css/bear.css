@@ -14,7 +14,7 @@ from the left side of the screen before he reaches the edge.
 /* Write your solution here */
 @media only screen and (min-width: 1196px) {
   #bear {
-    position: relative;;
+    position: relative;
     left: 800px;
     right: auto;
   }
