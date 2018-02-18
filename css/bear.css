@@ -16,5 +16,6 @@ from the left side of the screen before he reaches the edge.
   #bear img {
     position: fixed;
     left: 800px;
+    right: auto;
   }
 }
